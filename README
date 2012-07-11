@@ -1,3 +1,8 @@
 ############# README ###########################
  Msummary
 ################################################
+A py4S60(python for series 60 phones) application
+for creating a summary of mpesa transactions.
+
+It searches the inbox and parses all mpesa messages
+to create a summary.
